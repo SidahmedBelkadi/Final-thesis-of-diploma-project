@@ -5,8 +5,11 @@ This project leverages machine learning to predict used cars prices effectively,
 
 ### Repository Structure
 This repository contains two detailed Jupyter notebooks which document the methods and analyses used:
-- **01_Model_Comparison.ipynb**: Explores the efficacy of CNN and Random Forest models in car price prediction, analyzing their predictive capabilities and suitability based on the data types they process.
-- **02_Model_Enhancement_with_Transfer_Learning.ipynb**: Demonstrates how combining these models through transfer learning can significantly improve prediction accuracy.
+- **Price_Prediction_Random_Forest_And_CNN_(Resnet_34)_Comparison.ipynb**:
+  Explores the efficacy of CNN and Random Forest models in car price prediction, analyzing their predictive capabilities and suitability based on the data types they process.
+  
+- **Price_Prediction_Random_Forest_And_CNN_(Resnet_34)_Combinaison_And_Regression.ipynb**:
+   Demonstrates how combining these models through transfer learning can significantly improve prediction accuracy.
 
 ## Detailed Description of Notebooks
 
